@@ -1,3 +1,4 @@
+https://juejin.cn/post/6933384126363877384  
 https://zhuanlan.zhihu.com/p/354603010  
 https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal  
 https://ohmyposh.dev/docs/themes  
